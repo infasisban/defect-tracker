@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "873508229902",
+    "project_id": "defecttracker-41bba",
+    "storage_bucket": "defecttracker-41bba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873508229902:android:63aa16075dea42eb56bd5f",
+        "android_client_info": {
+          "package_name": "com.example.defect_tracker_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEsY7nYzzP7_CqwfjipbMmdw-ifXW4EdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873508229902:android:59405658a5c4630b56bd5f",
+        "android_client_info": {
+          "package_name": "com.infas.defecttracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEsY7nYzzP7_CqwfjipbMmdw-ifXW4EdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

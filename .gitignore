@@ -1,0 +1,13 @@
+# Flutter
+build/
+.flutter-plugins
+.packages
+.pub-cache
+.pub/
+
+# Node.js
+node_modules/
+.env
+
+# VSCode
+.vscode/
